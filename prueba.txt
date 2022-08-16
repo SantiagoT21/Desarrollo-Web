@@ -1,3 +1,18 @@
 Hola desde bloc de notas
 
 la prueba ha funcionado.
+
+
+
+ESLint: Mirar los errores existentes en el codigo mientras trabajamos.
+Prettier: Ayuda a formatear el codigo (Definir estandar de formato de codigo). "Ayuda en trabajo en equipo"
+Path Intellisense: Por defecto VSC solo indexa archivos .js, con la extensión puede indexar todo el work space.
+Bracket Pair Colorizer: Cunado tenemos muchos Brackets, se intercalan los colores para diferenciarlos.
+Auto rename tag: Organizar los tag de cierre en nodos muy grandes
+Git history: Ver de forma sencilla el historial y arbol de commits como se ve en github.
+ES7 react: Facilita a la hora de crear aplicaciones en react (Reduxer)
+
+
+Plugin DevTool Microsoft Edge: https://docs.microsoft.com/en-us/microsoft-edge/visual-studio-code/microsoft-edge-devtools-extension
+- Syncing live changes from the Styles tool by using CSS mirror editing
+- Opening a browser instance in the extension
